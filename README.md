@@ -1,6 +1,6 @@
 # Metadata Decryptor
 
-Heuristic-based IL2CPP metadata reconstruction tool for Standoff 2.
+Heuristic-based IL2CPP metadata reconstruction tool for Standoff 2 (0.39.2 x64).
 
 The tool attempts to reconstruct a valid global-metadata.dat header from embedded metadata found inside libunity.so
 
