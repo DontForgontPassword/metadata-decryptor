@@ -42,6 +42,7 @@ Known reordered structs:
 </ul>
 
 If you have any questions or bug reports, ask in discord or create an issue.
+Yep, im used AI to make code more readable 😊
 
 # Disclaimer
 
