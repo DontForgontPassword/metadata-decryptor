@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-
-# Global metadata header reconstruction using heuristic
-# CodeRegistration, MetadataRegistration reconstruction using heuristic
-# Im reconstructed only fields what using in Il2CppDumper(v39)
-# Big thanks to Michel-M-Code
-
-# Bad peoples from axlebolt reordered many structures fields.
-# Poor me, i spended to this shit about week - month
-# But i'm really got fun with this
-
-# For any help you can ask me, just write me in discord (experienceinmymind)
-
-# Used AI to reconstruct code to readable view
-
 import argparse
 import os
 import collections
